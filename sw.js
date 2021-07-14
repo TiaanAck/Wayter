@@ -1,4 +1,4 @@
-const cacheName = 'Wayter';
+const cacheName = 'Service Worker';
 const staticAssets = [
  
   './styles.css',
