@@ -1,7 +1,7 @@
 {
   "name": "Wayter",
   "short_name": "W8R",
-  "start_url": "/tiaanack.github.io/Wayter/index.html",
+  "start_url": "https://tiaanack.github.io/Wayter",
   "scope": "./",
   "icons": [
     {
