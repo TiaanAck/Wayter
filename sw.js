@@ -1,7 +1,7 @@
 const cacheName = 'Wayter';
 const staticAssets = [
  
-  './main.css',
+  './styles.css',
  './index.html'
  
 ];
