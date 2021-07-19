@@ -18,7 +18,11 @@
         
         <link rel="shortcut icon" href="assets/img/delivery icon.jpg" type="image/x-icon">  
         <link rel="manifest" href="https://tiaanack.github.io/Wayter/manifest.json">                             
-        <script src="https://tiaanack.github.io/Wayter/sw.js" defer></script>
+
+         <script>if ("serviceWorker" in navigator) {
+            // register service worker
+            navigator.serviceWorker.register("https://tiaanack.github.io/Wayter/sw.js");
+         }</script>
         
     </head>
     <body id="page-top">
